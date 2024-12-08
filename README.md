@@ -40,7 +40,7 @@ The **Gaming Review Website** serves as a one-stop platform for gamers to explor
 1. **📥 Clone the Repository**
 
    ```bash
-   git clone [https://github.com/your-username/gaming-review-website.git](https://github.com/MendiOP/A-Gaming-review-Website/edit/main/README.md)
+   git clone (https://github.com/MendiOP/A-Gaming-review-Website/edit/main/README.md)
 
     📂 Navigate to the Project Directory
    ```
